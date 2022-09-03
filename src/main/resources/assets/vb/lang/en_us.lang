@@ -1,0 +1,15 @@
+item.mithrilcoin.name= Mithril Coin
+item.orcoin.name= Golden Coin Custom
+item.silvercoin.name= Silver Coin
+item.bronzecoin.name= Bronze Coin
+
+item.brockenor.name= Golden Coin
+item.brockenargent.name= Silver Coin
+item.brockenbronze.name= Bronze Coin
+
+item.valientkeyspecial.name= Special Key
+item.valientkeys.name= key
+
+itemGroup.valient= Items Valient
+
+entity.bankNPC.name= BANKNPC

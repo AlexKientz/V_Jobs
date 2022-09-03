@@ -1,0 +1,14 @@
+item.mithrilcoin.name= Valion de Mithril
+item.orcoin.name= Valion d'Or
+item.silvercoin.name= Valion d'Argent
+item.bronzecoin.name= Valion de Bronze
+item.valientkeyspecial.name= Clef Speciale
+item.valientkeys.name= Clef
+
+itemGroup.valient= Item Valient
+
+item.brockenor.name= Valion d'Or
+item.brockenargent.name= Valion d'Argent
+item.brockenbronze.name= Valion de Bronze
+
+entity.bankNPC.name= BANKNPC

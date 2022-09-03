@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vb",
+  "name": "ValientMod",
+  "description": "Mod for Valient.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://valient.fr",
+  "updateUrl": "",
+  "authorList": ["Harrysto"],
+  "credits": "Harrysto",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

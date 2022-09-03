@@ -1,0 +1,7 @@
+{
+  "parent": "vb:block/default_box",
+  "textures": {
+    "1": "vb:blocks/botarium_side",
+    "particle": "vb:blocks/botarium_side"
+  }
+}
